@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-lightbox",
+  "name": "gitbook-plugin-lightbox_sie",
   "version": "1.2.0",
   "description": " A gitbook plugin to show image by lightbox.",
   "main": "dist/index.js",
